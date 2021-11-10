@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('NALib_0.0.80.aar'))

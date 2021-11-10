@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CARD_READER</string>
+        <string name="card_id">หมายเลขบัตร : </string>
+    <string name="fname_lname">ชื่อ นามสกุล : </string>
+    <string name="sex">เพศ : </string>
+    <string name="date_of_birth">เกิดวันที่ : </string>
+    <string name="date_issue">วันที่ออกบัตร : </string>
+    <string name="date_expire">บัตรหมดอายุ : </string>
+    <string name="address">ที่อยู่ : </string>
+
+    <string name="bt_SelectReader">เลือกอุปกรณ์</string>
+    <string name="bt_Read">อ่านบัตร</string>
+    <string name="bt_License">License</string>
+    <string name="bt_Exit">ออกจากโปรแกรม</string>
+    <string name="bt_email">ส่งเมล</string>
+
+</resources>
